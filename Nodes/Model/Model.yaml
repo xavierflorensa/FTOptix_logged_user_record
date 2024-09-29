@@ -1,0 +1,8 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: Logged_User_Name
+  Id: g=6b2f6dec5148aaf2dbc303946d223a5f
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "0"
